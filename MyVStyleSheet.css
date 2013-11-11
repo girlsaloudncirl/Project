@@ -1,0 +1,100 @@
+body
+{
+	background-image:url("BodyBackground.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+	font-family:calibri(body);
+}
+
+.h1
+{
+	font-size:80px;
+	text-align:center;
+	font-family:calibri;
+	height:0px;
+	color:#446B80;
+}
+
+.table1
+{
+	width:95%;
+	height:40px;
+	text-color:silver;
+}
+
+.toolbar2
+{ 					/* Containing div must have a position value */
+	position:relative;
+	font-size:25px;    
+	height:50px;
+	width:60%;
+	margin:0 auto;    
+	text-align:center;    
+	font-family:calibri;
+	text-color:#6495ED;    
+	text-decoration:none;
+    
+}
+
+.toolbar2 a 
+{
+	position:relative;
+	width:95%;
+	top:0;
+	left:0;
+	text-decoration:none; 		/* Makes sure the link   doesn't get underlined */
+	
+	
+}
+
+.tolbar2 a 
+{
+    position:inherit;
+    top:0;
+    left:0;
+    text-decoration:none; 		
+    z-index:10; 	   background-color:white;    opacity: 0;    filter: alpha(opacity=1); 		
+}
+
+
+
+
+
+
+.table2
+{
+	border:7px solid;
+	margin:0 auto;
+	width:80%;
+}
+
+.th2
+{
+	font-size:25px;
+}
+
+.table3
+{
+	border:2px solid;
+	float:right;
+	width:445px;
+	height:310px;
+}
+
+.image1
+{
+	height:50%;
+	width:50%;
+}
+
+.td1
+{
+	text-align:left;
+	width:120px;
+}
+
+.td2
+{
+	text-align:left;
+}
