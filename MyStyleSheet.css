@@ -1,0 +1,94 @@
+body
+{
+	background-image:url("BackgroundBody.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+	position:solid;
+}
+
+
+.h1
+{
+	font-size:100px;
+	text-align:center;
+	font-family:calibri;
+	height:0px;
+	color:#256EB8;
+	
+}
+
+
+
+.clickableV
+{ 					/* Containing div must have a position value */
+	position:relative;
+	font-size:90px;    
+	height:110px;
+	width:800px;
+	margin:0 auto;    
+	text-align:center;    
+	font-family:calibri;
+	text-decoration:none;
+    	color:white;
+}
+
+.clickableV a 
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	text-decoration:none; 		/* Makes sure the link   doesn't get underlined */
+	
+}
+
+
+
+.clickableM
+{ 					/* Containing div must have a position value */
+	position:relative;
+	font-size:90px;    
+	height:110px;
+	width:800px;
+	margin:0 auto;
+	text-align:center;
+	font-family:calibri;
+	text-decoration:none;
+	color:white;
+}
+
+.clickableM a 
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	text-decoration:none; 		/* Makes sure the link   doesn't get underlined */
+}
+
+
+.clickableP
+{ 					/* Containing div must have a position value */
+	position:relative;
+	font-size:90px;    
+	height:110px;
+	width:800px;
+	margin:0 auto;
+	text-align:center;
+	font-family:calibri;
+	text-decoration:none;
+	
+}
+
+.clickableP a 
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	text-decoration:none; 		/* Makes sure the link   doesn't get underlined */
+}
