@@ -100,22 +100,53 @@
 </p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 <img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=14927282&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
-<div class="fiat">
-<ul>
-<li> Make:BMW</li>
-<li> Model:X5</li>
-<li> Engine:3.0 Diesel</li>
-<li> Body type:SUV</li>
-<li> Transmision:Automatic</li>
-<li> Year:2008</li>
-<li> Colour:Carbon Black</li>
-<li> Mileage:11000M/177,028KM</li>
-<li> Owners:2</li>
-<li> Doors:5</li>
-<li> NCT Expiry:March,2014</li>
-<li> Price:€ 33,950</li>
-</ul>
-</div>
+<table class="fiat">
+	<tr>
+		<td>Make:</td>
+		<td>BMW</td>
+	</tr>
+	<tr>
+		<td> Model:</td>
+		<td>X5</td>
+	</tr>
+	<tr>
+		<td> Engine:</td>
+		<td>3.0 Diesel</td>
+	</tr>
+	<tr>
+		<td> Body type:</td>
+		<td>SUV</td>
+	<tr>
+		<td> Transmision:</td>
+		<td>Automatic</td>
+	</tr>
+		<td> Year:</td>
+		<td>2008</td>
+	<tr>
+		<td> Colour:</td>
+		<td>Carbon Black</td>
+	</tr>
+	<tr>
+		<td> Mileage:</td> 
+		<td>11000M/177,028KM</td>
+	</tr>
+	<tr>
+		<td> Owners:</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td> Doors:</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td> NCT Expiry:</td>
+		<td>March,2014</td>
+	</td>
+	<tr>
+		<td> Price:</td>
+		<td>€ 33,950</td>
+	</tr>
+</table>
 
 
 <a href="caprani.html">Back</a>
