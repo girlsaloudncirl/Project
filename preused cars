@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+
+  <head>
+         <title>caprani</title>
+         <script type="text/javascript" src="external.js"></script>
+             <body onload = "hello()">
+
+	     <link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+
+ </head>
+
+
+		  <body>
+
+		       <table>
+                              <tr>
+                                   <td>HOME</td>
+			                      <td>SERVICE</td>
+			                      <td>USED CARS</td>
+			                      <td><a href="about-us.html" target="_blank">ABOUT US</td></a>
+				                  <td>CONTACT US</td>
+
+		                    </tr>
+		     </table>
+    <div class="one" ><img src="road.gif" width="100%" height="190%"></div>
+    <br/><br/><br/><br/><br/>
+
+
+
+
+    <div class="box">
+                    <p class="text"><b>Choose a used vehicle from Caprani and suddenly your
+                     ideal car becomes much easier to find, and afford!</b><br>
+
+			<i>Our extensive stock of used Audi,Fiat,Citroen,Ford,Honda,Mercedes,
+                           Toyota,Opel,Renault and Volkswagens have all been
+			   through rigorous pre-sales checks, so  your next vehicle is
+                           of the highest quality. What’s more, thanks our
+			   Price Match Guarantee you know you’re getting superb value, too:
+			   find a vehicle of comparable spec, age, mileage and condition for sale
+			   at a lower price within five days of buying a used car from us, and we’ll
+ 			   refund the difference. Whichever model you choose, you’ll benefit from Caparani's
+ 			   well deserved reputation for quality, selection, service and value.</i>
+                 </p>
+
+    </div>
+
+    <div class="tv"><a href="used carsA.html" target="_blank"><img src ="photos/audi.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>A4</li>
+                    <li>A6</li>
+                    <li>A3</li>
+                    <li>69</li>
+                    <li>90</li>
+                   </ul>
+    </div>
+
+    <div class="tv"><a href="used carsB.html" target="_blank"><img src ="photos/bmw.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>3 series</li>
+                    <li>5 series</li>
+                    <li>B7</li>
+                    <li>X5</li>
+                    <li>Z3</li>
+                   </ul>
+    </div>
+
+
+
+    <div class="tv"><a href="used carsCit.html" target="_blank"><img src ="photos/citroen.jpg" height="70" width="70"/></a>
+                 <ul>
+                    <li>C4</li>
+                    <li>Berlingo</li>
+                    <li>C25</li>
+                    <li>C3</li>
+                    <li>Saxo Furio</li>
+                   </ul>
+    </div>
+
+<div class="tv"><a href="used carsP.html" target="_blank"><img src ="photos/fiat.jpg" height="70" width="70"/></a>
+                 <ul>
+                    <li>PUNTO</li>
+                    <li>Stilo</li>
+                    <li>850</li>
+                    <li>127</li>
+                    <li>Brava</li>
+                   </ul>
+    </div>
+
+
+    <div class="tv"><a href="used carsF.html" target="_blank"><img src ="photos/ford.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>Focus</li>
+                    <li>Fiesta</li>
+                    <li>Transit</li>
+                    <li>C-max</li>
+                    <li>Galaxy</li>
+                   </ul>
+    </div>
+
+
+
+
+    <div class="tv"><a href="used carsH.html" target="_blank"><img src ="photos/honda.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>Accord</li>
+                    <li>Civic</li>
+                    <li>Jazz</li>
+                    <li>Hr-V</li>
+                    <li>Cr-v</li>
+                   </ul>
+    </div>
+
+ <div class="tv"><a href="used carsM.html" target="_blank"><img src ="photos/mercedes.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>E-Class</li>
+                    <li>Sprinter</li>
+                    <li>Vito</li>
+                    <li>Viano</li>
+                    <li>Cls</li>
+                   </ul>
+    </div>
+
+
+
+
+    <div class="tv"><a href="used carsA.html" target="_blank"><img src ="photos/opel.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>Astra</li>
+                    <li>Vectra</li>
+                    <li>Corsa</li>
+                    <li>Zafira</li>
+                    <li>Vivaro</li>
+                   </ul>
+    </div>
+
+
+
+    <div class="tv"><a href="used carsPej.html" target="_blank"><img src ="photos/peugeot.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>407</li>
+                    <li>307</li>
+                    <li>206</li>
+                    <li>406</li>
+                    <li>BOXER</li>
+                   </ul>
+    </div>
+
+  <div class="tv"><a href="used carsT.html" target="_blank"><img src ="photos/toyota.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>Avensis</li>
+                    <li>Verso</li>
+                    <li>Corola</li>
+                    <li>Yaris</li>
+                    <li>Auris</li>
+                   </ul>
+    </div>
+<div class="tv"><a href="used carsR.html" target="_blank"><img src ="photos/renault.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>Megane</li>
+                    <li>Scenic</li>
+                    <li>Clio</li>
+                    <li>Laguna</li>
+                    <li>Master</li>
+
+
+    </div>
+     <div class="tv"><a href="used carsV.html" target="_blank"><img src ="photos/Volkswagen.jpg" height="70" width="70"></a>
+                 <ul>
+                    <li>Passat</li>
+                    <li>Golf</li>
+                    <li>Transporter</li>
+                    <li>Polo</li>
+                    <li>Bora</li>
+                   </ul>
+
+
+     </div>
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+
+
