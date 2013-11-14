@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+
+
+     <title>caprani</title>v
+
+   <head>
+
+	<link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+   </head>
+		  <body>
+
+<table class="table1">
+			<th>
+				<div class="toolbar2">
+					<a style="color:#708895;" href="E:\HTML & Web Design\Project\Website\WelcomePage\index2.html">
+						<font size="6">Home</font>
+					</a>
+				</div>
+			</th>
+
+			<th>
+				<div class="toolbar2">
+					<a style="color:#708895;" href="E:\HTML & Web Design\Project\Website\WelcomePage\Service.html">
+						<font size="6">Service</font>
+					</a>
+				</div>
+			</th>
+
+			<th>
+				<div class="toolbar2">
+					<a style="color:#708895;" href="E:\HTML & Web Design\Project\Website\WelcomePage\Parts.html">
+						<font size="6">Parts</font>
+					</a>
+				</div>
+			</th>
+
+			<th>
+				<div class="toolbar2">
+					<a style="color:#708895;" href="E:\HTML & Web Design\Project\Website\WelcomePage\AboutUs.html">
+						<font size="6">About Us</font>
+					</a>
+				</div>
+			</th>
+
+			<th>
+				<div class="toolbar2">
+					<a style="color:#708895;" href="E:\HTML & Web Design\Project\Website\WelcomePage\ContactUs.html">
+						<font size="6">Contact Us</font>
+					</a>
+				</div>
+			</th>
+		</table class="table1">
+		      
+    <div class="one" ><img src="road.gif" width="100%" height="250"></div>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=70baad40-fe6f-4f42-8175-20e5cfa74005&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<table class="fiat">
+	<tr>
+		<td>Make:</td>
+		<td>BMW</td>
+	</tr>
+	<tr>
+		<td>Model:</td>
+		<td>3 series</td>
+	</tr>
+	<tr>
+		<td>Engine:</td>
+		<td>2.9 Diesel</td>
+	</tr>
+	<tr>
+		<td>Body type:</td>
+		<td>Coupe</td>
+	<tr>
+		<td>Transmision:</td>
+		<td>Automatic</td>
+	</tr>
+		<td>Year:</td>
+		<td>2007</td>
+	<tr>
+		<td>Colour:</td>
+		<td>Montego Blue</td>
+	</tr>
+	<tr>
+		<td>Mileage:</td> 
+		<td>53,969m/86,855km</td>
+	</tr>
+	<tr>
+		<td>Owners:</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Doors:</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>NCT Expiry:</td>
+		<td>January,2014</td>
+	</td>
+	<tr>
+		<td>Price:</td>
+		<td>€19,995</td>
+	</tr>
+</table>
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=512c2462-8906-469e-80fa-83f97b048c33&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<table class="fiat">
+	<tr>
+		<td>Make:</td>
+		<td>BMW</td>
+	</tr>
+	<tr>
+		<td>Model:</td>
+		<td>5 series</td>
+	</tr>
+	<tr>
+		<td>Engine:</td>
+		<td>2.0 Diesel</td>
+	</tr>
+	<tr>
+		<td>Body type:</td>
+		<td>Saloon</td>
+	<tr>
+		<td>Transmision:</td>
+		<td>Automatic</td>
+	</tr>
+		<td>Year:</td>
+		<td>2007</td>
+	<tr>
+		<td>Colour:</td>
+		<td>Metallic Silver</td>
+	</tr>
+	<tr>
+		<td>Mileage:</td> 
+		<td>137-001m/220.482km</td>
+	</tr>
+	<tr>
+		<td>Owners:</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>Doors:</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>NCT Expiry:</td>
+		<td>April,2017</td>
+	</td>
+	<tr>
+		<td>Price:</td>
+		<td>€24,950</td>
+	</tr>
+</table>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=4692c4e6-7933-4c96-8ac0-ad94e2ce0e00&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<table class="fiat">
+	<tr>
+		<td>Make:</td>
+		<td>BMW</td>
+	</tr>
+	<tr>
+		<td>Model:</td>
+		<td>7 series</td>
+	</tr>
+	<tr>
+		<td>Engine:</td>
+		<td>2.9 Diesel</td>
+	</tr>
+	<tr>
+		<td>Body type:</td>
+		<td>Saloon</td>
+	<tr>
+		<td>Transmission:</td>
+		<td>Automatic</td>
+	</tr>
+		<td>Year:</td>
+		<td>2009</td>
+	<tr>
+		<td>Colour:</td>
+		<td>Metallic Silver</td>
+	</tr>
+	<tr>
+		<td>Mileage:</td> 
+		<td>77,922m/125,403km</td>
+	</tr>
+	<tr>
+		<td>Owners:</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>Doors:</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>NCT Expiry:</td>
+		<td>-------</td>
+	</td>
+	<tr>
+		<td>Price:</td>
+		<td>€24,950</td>
+	</tr>
+</table>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=3ed983e1-aa79-4550-b587-cf98f35c234f&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<table class="fiat">
+	<tr>
+		<td>Make:</td>
+		<td>BMW</td>
+	</tr>
+	<tr>
+		<td>Model:</td>
+		<td>X5</td>
+	</tr>
+	<tr>
+		<td>Engine:</td>
+		<td>3.0 Diesel</td>
+	</tr>
+	<tr>
+		<td>Body type:</td>
+		<td>SUV</td>
+	<tr>
+		<td>Transmission:</td>
+		<td>Automatic</td>
+	</tr>
+		<td>Year:</td>
+		<td>2008</td>
+	<tr>
+		<td>Colour:</td>
+		<td>Carbon Black</td>
+	</tr>
+	<tr>
+		<td>Mileage:</td> 
+		<td>11000m/177,028km</td>
+	</tr>
+	<tr>
+		<td>Owners:</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>Doors:</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>NCT Expiry:</td>
+		<td>-----</td>
+	</td>
+	<tr>
+		<td>Price:</td>
+		<td>€ 33,950</td>
+	</tr>
+</table>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=14927282&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<table class="fiat">
+	<tr>
+		<td>Make:</td>
+		<td>BMW</td>
+	</tr>
+	<tr>
+		<td>Model:</td>
+		<td>X5</td>
+	</tr>
+	<tr>
+		<td>Engine:</td>
+		<td>3.0 Diesel</td>
+	</tr>
+	<tr>
+		<td>Body type:</td>
+		<td>SUV</td>
+	<tr>
+		<td>Transmission:</td>
+		<td>Automatic</td>
+	</tr>
+		<td>Year:</td>
+		<td>2008</td>
+	<tr>
+		<td>Colour:</td>
+		<td>Carbon Black</td>
+	</tr>
+	<tr>
+		<td>Mileage:</td> 
+		<td>11000m/177,028km</td>
+	</tr>
+	<tr>
+		<td>Owners:</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>Doors:</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>NCT Expiry:</td>
+		<td>March,2014</td>
+	</td>
+	<tr>
+		<td>Price:</td>
+		<td>€ 33,950</td>
+	</tr>
+</table>
+
+
+<a href="caprani.html">Back</a>
+<div class="cube">
+        <div class="topFace">
+                <div>
+                      <img src ="photos/peugeot.jpg" width="200px" height="200px">
+                </div>
+        </div>
+        <div class="leftFace">
+                     <img src ="photos/caprani.jpg" width="200px" height="200px" >
+        </div>
+        <div class="rightFace">
+                    <img src ="photos/mercedes.jpg" width="210px" height="210px">
+        </div>
+</div>
+
+</body>
+</html>
+
+
